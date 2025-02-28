@@ -1,4 +1,4 @@
-👋 Hi, I’m Gabriel Colombo, a **bachelor in Biological Sciences** currently pursuing a degree in **Computer Engineering** with a **focus on Data Science**. \
+👋 Hi, I’m Gabriel Colombo, a **bachelor in Biological Sciences** currently pursuing a degree in **Computer Engineering** with a **focus on Data Science/Engineering**. \
 :books: I’m interested in applied mathematics, scientific computation, robotics and AI. \
 :computer: I’m currently a **data science intern**, also getting more in touch with **data engineering and DevOps**. <br>
 
