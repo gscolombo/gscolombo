@@ -3,7 +3,7 @@
 :computer: I’m currently a **data science intern**, also getting more in touch with **data engineering and DevOps**. <br>
 
 ## Main skills and current works
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,ts,html,css,php,docker,bash)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,ts,html,css,php,docker,bash)](https://skillicons.dev) <br>
 I have experience with **software development** and **data analysis**, looking forward to gain more skills in data science, robotics, embedded systems and DevOps. <br> In my current internship, I’m working extensively with **data engineering**, specially with **ETL processes and data pipelines**, and using **cloud platforms like Azure** to build a data warehouse and enhance data science workflows.
 <br><br>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdqZ2JwZWprdThjOG9ja2RxcWxlc3BxaWMyMW42Zno4dDhjM3ZzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" />
