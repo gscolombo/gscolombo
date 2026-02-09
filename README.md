@@ -9,7 +9,7 @@ I have experience with **software/data engineering** and **data science**, looki
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdqZ2JwZWprdThjOG9ja2RxcWxlc3BxaWMyMW42Zno4dDhjM3ZzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" />
 > Actual footage of me at work <br>
 
-<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gscolombo&layout=compact&exclude_repo=teste,lista1-em-grupo-trainee,struct_lista1&hide=scss,html,css,jupyter%20notebook,vue,handlebars,hack,makefile,cmake,dockerfile)
+<br> ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gscolombo&layout=compact&exclude_repo=teste,lista1-em-grupo-trainee,struct_lista1&hide=scss,html,css,jupyter%20notebook,vue,handlebars,hack,makefile,cmake,dockerfile)
 
 📫 If you want to enter in contact with me, please send me a message through my email gscolombo404@gmail.com. :grin:
 
