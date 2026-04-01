@@ -1,5 +1,5 @@
 👋 Hi, I’m Gabriel Colombo, a **bachelor in Biological Sciences** currently pursuing a degree in **Computer Engineering** with a **focus on Data Science/Engineering**. \
-:books: I’m interested in applied mathematics, scientific computation, robotics and AI. \
+:books: I’m interested in applied mathematics, high performance computing, robotics and AI. \
 :computer: I’m currently a **software engineering/data analysis intern**. <br>
 
 ## Main skills and current works
